@@ -69,28 +69,13 @@ To reproduce the results and apply the novelty, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [[repository_url]](https://github.com/Nikhil-Kumar-Patel/Tiny_Oriented_Object_Detection.git)
+   git clone https://github.com/Nikhil-Kumar-Patel/Tiny_Oriented_Object_Detection.git
    ```
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Download the dataset and place it in the designated folder:
-   ```bash
-   wget [dataset_url]
-   ```
-4. Run the training or inference scripts:
-   ```bash
-   python train.py --config config.yaml
-   ```
 
-## Usage
-
-To test the novelty:
-
-```bash
-python prune_quantize_encode.py --config config.yaml
-```
 
 ## Conclusion
 
