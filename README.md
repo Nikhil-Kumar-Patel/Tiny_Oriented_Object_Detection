@@ -69,7 +69,7 @@ To reproduce the results and apply the novelty, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [repository_url]
+   git clone [[repository_url]](https://github.com/Nikhil-Kumar-Patel/Tiny_Oriented_Object_Detection.git)
    ```
 2. Install the required dependencies:
    ```bash
