@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and results for reproducing the paper **"[Xu, Chang, et al. "Dynamic coarse-to-fine learning for oriented tiny object detection" CVPR, 2023.]"** and implementing a novel approach for improving the model's performance. The paper was focused on [briefly describe the original paper's objective]. The novelty introduced here involves the integration of **Pruning, Quantization, and Huffman Encoding** to reduce the model size while analyzing its effect on accuracy.
+This repository contains the code and results for reproducing the paper **"Dynamic coarse-to-fine learning for oriented tiny object detection"** and implementing a novel approach for improving the model's performance. The paper was focused on [briefly describe the original paper's objective]. The novelty introduced here involves the integration of **Pruning, Quantization, and Huffman Encoding** to reduce the model size while analyzing its effect on accuracy.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ This repository contains the code and results for reproducing the paper **"[Xu, 
 
 ## Introduction
 
-The purpose of this project was to reproduce the results presented in the paper **"[Original Paper Title]"** and explore the effects of network optimization techniques like pruning, quantization, and Huffman encoding on the model’s performance and size.
+The purpose of this project was to reproduce the results presented in the paper **"Dynamic coarse-to-fine learning for oriented tiny object detection"** and explore the effects of network optimization techniques like pruning, quantization, and Huffman encoding on the model’s performance and size.
 
 ## Results
 
