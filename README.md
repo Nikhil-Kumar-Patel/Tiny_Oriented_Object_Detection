@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository contains the code and results for reproducing the paper **"Dynamic coarse-to-fine learning for oriented tiny object detection"** and implementing a novel approach for improving the model's performance. The paper was focused on detecting tiny oriented objects. The novelty introduced here involves the integration of **Pruning, Quantization, and Huffman Encoding** to reduce the model size while analyzing its effect on accuracy.
+This repository contains the code and results for reproducing the paper **"Dynamic coarse-to-fine learning for oriented tiny object detection"** and implementing a novel approach for improving the model's performance. The original paper tackles the challenging task of detecting arbitrarily oriented tiny objects, which poses significant difficulties for existing detectors, particularly in label assignment. Despite advancements in adaptive label assignment, extreme geometries and limited features of tiny objects often result in severe mismatch and imbalance issues.
+
+To address these challenges, the paper proposes a dynamic prior along with a coarse-to-fine assigner, termed DCFL. The approach models prior, label assignment, and object representation dynamically, aiming to alleviate mismatch issues and provide appropriate, balanced supervision for diverse instances. The novelty introduced here involves the integration of **Pruning, Quantization, and Huffman Encoding** to reduce the model size while analyzing its effect on accuracy.
 
 ## Table of Contents
 
