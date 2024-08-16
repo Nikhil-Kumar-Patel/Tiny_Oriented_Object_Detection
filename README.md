@@ -29,7 +29,7 @@ The purpose of this project was to reproduce the results presented in the paper 
 
 Below are the results obtained from the reproduction of the original paper's experiment on the DOTA V1 dataset:
 
-![Reproduced Results](path_to_the_image)
+![Reproduced Results](https://github.com/Nikhil-Kumar-Patel/Tiny_Oriented_Object_Detection/blob/main/figures/DOTA-V1.jpg)
 
 - **mAP**: 0.681
 - **Recall**: 0.872
