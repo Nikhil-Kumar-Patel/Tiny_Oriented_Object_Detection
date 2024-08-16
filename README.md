@@ -82,5 +82,5 @@ This project successfully reproduces the original results and demonstrates the i
 
 ## References
 
-1. **Dynamic coarse-to-fine learning for oriented tiny object detection** - [[link to the paper](https://arxiv.org/pdf/2304.08876)]
+1. **Dynamic coarse-to-fine learning for oriented tiny object detection** - [link to the paper](https://arxiv.org/pdf/2304.08876)
 2. **Other References** - [https://github.com/ChaselTsui/mmrotate-dcfl]
