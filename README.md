@@ -15,7 +15,6 @@ This repository contains the code and results for reproducing the paper **"[Xu, 
   - [Quantization](#quantization)
   - [Huffman Encoding](#huffman-encoding)
 - [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
 - [Conclusion](#conclusion)
 - [References](#references)
 
@@ -39,7 +38,7 @@ Below are the results obtained from the reproduction of the original paper's exp
 
 After applying pruning, quantization, and Huffman encoding, the results are as follows:
 
-![Novelty Results](path_to_the_image)
+![Novelty Results](https://github.com/Nikhil-Kumar-Patel/Tiny_Oriented_Object_Detection/blob/main/figures/Pruning.jpg)
 
 - **mAP**: 0.550
 - **Recall**: 0.750
@@ -47,7 +46,7 @@ After applying pruning, quantization, and Huffman encoding, the results are as f
 
 The application of these techniques significantly reduced the model size, as shown in the diagram below, albeit with some reduction in precision and mAP.
 
-![Novelty Process](path_to_the_image)
+![Novelty Process](https://github.com/Nikhil-Kumar-Patel/Tiny_Oriented_Object_Detection/blob/main/figures/Novelty.jpg)
 
 ## Methodology
 
