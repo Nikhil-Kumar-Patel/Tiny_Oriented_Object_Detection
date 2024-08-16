@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and results for reproducing the paper **"Dynamic coarse-to-fine learning for oriented tiny object detection"** and implementing a novel approach for improving the model's performance. The paper was focused on [briefly describe the original paper's objective]. The novelty introduced here involves the integration of **Pruning, Quantization, and Huffman Encoding** to reduce the model size while analyzing its effect on accuracy.
+This repository contains the code and results for reproducing the paper **"Dynamic coarse-to-fine learning for oriented tiny object detection"** and implementing a novel approach for improving the model's performance. The paper was focused on detecting tiny oriented objects. The novelty introduced here involves the integration of **Pruning, Quantization, and Huffman Encoding** to reduce the model size while analyzing its effect on accuracy.
 
 ## Table of Contents
 
