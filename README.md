@@ -30,9 +30,9 @@ The purpose of this project was to reproduce the results presented in the paper 
 
 Below are the results obtained from the reproduction of the original paper's experiment on the DOTA V1 dataset:
 
-![Reproduced Results](https://github.com/Nikhil-Kumar-Patel/Tiny_Oriented_Object_Detection/blob/main/figures/DOTA-V1.jpg)
 
-- **mAP**: 0.681
+
+- **mAP**: 0.6782
 - **Recall**: 0.872
 - **Precision**: 0.057
 
@@ -40,11 +40,11 @@ Below are the results obtained from the reproduction of the original paper's exp
 
 After applying pruning, quantization, and Huffman encoding, the results are as follows:
 
-![Novelty Results](https://github.com/Nikhil-Kumar-Patel/Tiny_Oriented_Object_Detection/blob/main/figures/Pruning.jpg)
 
-- **mAP**: 0.550
-- **Recall**: 0.750
-- **Precision**: 0.033
+
+- **mAP**: 0.6257
+- **Recall**: 0.850
+- **Precision**: 0.043
 
 The application of these techniques significantly reduced the model size, as shown in the diagram below, albeit with some reduction in precision and mAP.
 
